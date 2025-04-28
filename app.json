@@ -6,30 +6,30 @@
   "env": {
     "API_ID": {
       "description": "TG API_ID",
-      "value": "",
-      "required": false
+      "value": "27775431",
+      "required": true
     },
     "API_HASH": {
       "description": "TG API HASH",
-      "value": "",
-      "required": false
+      "value": "b70bb1d45a1d05236671d4cc615e40f9",
+      "required": true
     },
     "BOT_TOKEN": {
       "description": "Get your bot token by talking to @Botfather",
-      "required": false
+      "required": true
     },
     "APP_NAME": {
       "description": "Heroku app name",
-      "required": false
+      "required": true
     },
     "API_KEY": {
       "description": "Heroku api key",
-      "required": false
+      "required": true
     },
     "OWNER_ID": {
       "description": "who will use this bot",
-      "value": "",
-      "required": false
+      "value": "6414266397",
+      "required": true
     },
     "FR_TOKEN": {
       "description": "FR_TOKEN",
